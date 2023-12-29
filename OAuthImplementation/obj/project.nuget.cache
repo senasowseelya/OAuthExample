@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mj6/wE26YY8XEDsyS5KfG17zZ4YIbECHsx9+kHZmmmt4HGb8aMh+HgP7dBjgOW+yDWlF1ST5UqgHhQJ6ZSlYEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\senasowseelya.v\\Projects\\DotNet\\Learnings\\Authentication\\OAuthImplementation\\OAuthImplementation\\OAuthImplementation\\OAuthImplementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\senasowseelya.v\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\senasowseelya.v\\Projects\\DotNet\\Learnings\\Authentication\\OAuthImplementation\\OAuthImplementation\\OAuthImplementation\\OAuthImplementation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\senasowseelya.v\\Projects\\DotNet\\Learnings\\Authentication\\OAuthImplementation\\OAuthImplementation\\OAuthImplementation\\OAuthImplementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\senasowseelya.v\\Projects\\DotNet\\Learnings\\Authentication\\OAuthImplementation\\OAuthImplementation\\OAuthImplementation\\OAuthImplementation.csproj",
+        "projectName": "OAuthImplementation",
+        "projectPath": "C:\\Users\\senasowseelya.v\\Projects\\DotNet\\Learnings\\Authentication\\OAuthImplementation\\OAuthImplementation\\OAuthImplementation\\OAuthImplementation.csproj",
+        "packagesPath": "C:\\Users\\senasowseelya.v\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\senasowseelya.v\\Projects\\DotNet\\Learnings\\Authentication\\OAuthImplementation\\OAuthImplementation\\OAuthImplementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\senasowseelya.v\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\senasowseelya.v\\Downloads\\telerik.ui.for.blazor.hotfix.5.0.1.commercial\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

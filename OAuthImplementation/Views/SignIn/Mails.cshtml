@@ -1,0 +1,25 @@
+﻿@model List<OAuthImplementation.Views.SignIn.Email>
+
+<h1>Email List</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Subject</th>
+            <th>Snippet</th>
+            <!-- Add other headers/columns as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var email in Model)
+        {
+            <tr>
+                <td>@email.Subject</td>
+                <td>@email.Snippet</td>
+                <!-- Add other columns based on email properties -->
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/signin/signout">SignOut</a>

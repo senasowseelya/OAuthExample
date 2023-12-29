@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthImplementation", "OAuthImplementation\OAuthImplementation.csproj", "{5CBE24C2-351D-44F0-8FEF-9CB8E6A9D566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CBE24C2-351D-44F0-8FEF-9CB8E6A9D566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBE24C2-351D-44F0-8FEF-9CB8E6A9D566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBE24C2-351D-44F0-8FEF-9CB8E6A9D566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBE24C2-351D-44F0-8FEF-9CB8E6A9D566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B425A86A-3B0A-494E-A6DF-8725970EDE40}
+	EndGlobalSection
+EndGlobal
